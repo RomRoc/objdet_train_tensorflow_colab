@@ -1,2 +1,2 @@
-# obj_det_train_tensorflow_colaboratory
-Colaboratory (Jupyter) notebook to retrain Object Detection Tensorflow model.
+# objdet_train_tensorflow_colab
+Google Colab (Jupyter) notebook to retrain Object Detection Tensorflow model.
